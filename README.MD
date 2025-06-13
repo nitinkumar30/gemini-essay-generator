@@ -31,7 +31,7 @@ Directly in Code (Less Secure, for testing only):
 
 ## Working
 
-![Working of this project](https://github.com/nitinkumar30/gemini-essay-generator/blob/main/generateEssay_gemini.mp4)
+[![](generateEssay_gemini.mp4)](generateEssay_gemini.mp4)
 
 ## How to Run
 
