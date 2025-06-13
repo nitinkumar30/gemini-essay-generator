@@ -31,7 +31,7 @@ Directly in Code (Less Secure, for testing only):
 
 ## Working
 
-[![](generateEssay_gemini.mp4)](generateEssay_gemini.mp4)
+[![Working of this project](generateEssay_gemini.mp4)](generateEssay_gemini.mp4)
 
 ## How to Run
 
