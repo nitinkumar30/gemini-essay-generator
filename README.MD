@@ -29,6 +29,9 @@ Generate your API Key: Visit [Google AI Studio](https://aistudio.google.com/app/
 Directly in Code (Less Secure, for testing only):  
 > While not recommended for production, you can directly replace "YOUR_API_KEY" in the [generateEssay.py](generateEssay.py) file with your actual API key:
 
+## Working
+
+![Working of this project](https://raw.githubusercontent.com/nitinkumar30/gemini-essay-generator/blob/main/generateEssay_gemini.mp4)
 
 ## How to Run
 
