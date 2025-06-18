@@ -1,13 +1,3 @@
-# promptType: argumentative, informational, narrative
-# sub-dimension: (argument, persuasive), (expository, how-to, workplace), (descriptive, narrative)
-# Purpose & Organization: (formatting, Main claim, Opener, Topic sentences, Concluding summary, impact message, Map, Cohesion), (formatting, thesis, opener, topic sentences, concluding summary, impact summary, map, cohesion), (formatting, topic focus, opener, event sequence, concluding reflection, cohesion)
-# Development of ideas: (supporting claims, evidence, reasoning, transitions, counterclaim), (supporting points, evidence, transitions, reasoning), (events, descriptions, transitions)
-# Language & Conventions: Sentence structure, vocabulary, spelling, grammar, capitalization, punctuation, Precise language
-
-# promptType |=====|
-# grade/instructionalLevel
-# dimension
-
 # ================ NOTES =================
 # Pricing of the models ---> https://ai.google.dev/gemini-api/docs/rate-limits
 # Generate API Key ---> https://aistudio.google.com/app/apikey
