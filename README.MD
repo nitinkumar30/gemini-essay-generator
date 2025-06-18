@@ -21,6 +21,10 @@ This project offers significant advantages by automating content generation, whi
 4. Plain Text Output: Ensures that the generated content is in plain text format, which is easy to integrate into various systems and applications without additional formatting conversion.
 5. Cost-Effective Prototyping: Quickly generate varied content for testing, prototyping, or large-scale data synthesis without the need for extensive manual writing resources.
 
+## Working
+
+[![Working of this project](essayWritingUsingPrompts.gif)](essayWritingUsingPrompts.gif)
+
 
 ## Versatility and Applications
 The modular design and flexible input mechanism of this essay generator make it highly versatile and applicable to various scenarios:
