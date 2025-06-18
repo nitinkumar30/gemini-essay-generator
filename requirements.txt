@@ -1,0 +1,4 @@
+google~=3.0.0
+google-generativeai
+protobuf~=5.29.5
+openai~=1.86.0
