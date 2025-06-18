@@ -18,7 +18,7 @@ import sys
 import pandas as pd  # Import the pandas library for CSV handling
 
 # --- Configuration ---
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyDq9Cws8HcaLyw8rJemCcDGSsRjDhcB3ys")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY")
 
 # --- Global Variables (can be overridden by CSV if you add these as columns) ---
 TOTAL_WORDS_TO_BE_USED = 50
