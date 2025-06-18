@@ -49,7 +49,7 @@ This project empowers users to leverage the power of generative AI efficiently, 
 
 ## Model Information and Usage Limits
 
-This script utilizes the gemini-1.5-flash-001 model, a highly efficient and capable model from the Gemini family.
+This script utilizes the [gemini-1.5-flash-001](https://ai.google.dev/gemini-api/docs/models#gemini-1.5-flash) model, a highly efficient and capable model from the Gemini family.
 1. Free Tier Usage: The Gemini API offers a free tier that allows you to experiment and build applications within certain usage limits. These limits are subject to change, and it's essential to consult the official documentation for the most up-to-date information on quotas and pricing.
 2. Checking Rate Limits: You can find detailed information on model pricing and rate limits at Google AI for Developers - Rate Limits. Be aware of these limits to avoid unexpected service interruptions or billing.
 
