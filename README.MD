@@ -17,6 +17,10 @@
 
 ---
 
+## Working
+
+[!Working of this project](essayWritingsUsingPrompts.gif)](essayWritingsUsingPrompts.gif)
+
 ## 🚀 Advantages & Applications
 
 This tool offers significant advantages by automating what would otherwise be a tedious, error-prone, and time-consuming manual process.
