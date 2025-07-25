@@ -1,8 +1,6 @@
 import os, sys, re, pandas as pd, google.generativeai as genai
 
-# GEMINI_API_KEY = "AIzaSyAljFhakSkW718n3pSHJHW86Ef7Kweu2Mw"
-# GEMINI_API_KEY = "AIzaSyDCYXVeNeyhSI5ZB-RVkWNmdjEpV4AbLyI"
-GEMINI_API_KEY = "AIzaSyDbdt0f0eroyk3UCYPQBHZwVjPH5fim-mo"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 MODEL_NAME = "models/gemini-2.0-flash-lite-001"
 
