@@ -19,7 +19,7 @@
 
 ## Working
 
-[!Working of this project](essayWritingsUsingPrompts.gif)](essayWritingsUsingPrompts.gif)
+[![Working of this project](essayWritingsUsingPrompts.gif)](essayWritingsUsingPrompts.gif)
 
 ## 🚀 Advantages & Applications
 
