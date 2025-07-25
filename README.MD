@@ -17,10 +17,6 @@
 
 ---
 
-## Working
-
-[![Working of this project](essayWritingsUsingPrompts.gif)](essayWritingsUsingPrompts.gif)
-
 ## 🚀 Advantages & Applications
 
 This tool offers significant advantages by automating what would otherwise be a tedious, error-prone, and time-consuming manual process.
@@ -92,6 +88,12 @@ The script follows a simple, fully automated, multi-step process for each row in
         $env:GEMINI_API_KEY="YOUR_API_KEY_HERE"
         ```
     The script is designed to automatically find and use this environment variable.
+
+---
+
+## Working
+
+[![Working of this project](essayWritingsUsingPrompts.gif)](essayWritingsUsingPrompts.gif)
 
 ---
 
